@@ -1,0 +1,12 @@
+Modification was created by MaTTveIg, supported by Wlad Goose
+All files don`t go here due to conflicts with uploading to GitHub
+
+Modification created for Everlasting Summer game
+For the mod to work, you need to add it along the way:
+C:/Program Files(x86)/Steam/steamapps/common/Everlasting Summer/game/mods
+
+Modification can work without Steam, you just need the copy of all Everlasting Summer files
+
+Modification can be broken, it`s old version of it
+
+All rights to the visual and sound part remain with their authors
